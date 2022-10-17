@@ -9,6 +9,8 @@ main{
     margin-bottom: 24px;
     margin-left: auto;
     margin-right: auto;
+
+    /*can also write margin: 24px auto; (this is shorthand for what is above)*/
 }
 
 section{
